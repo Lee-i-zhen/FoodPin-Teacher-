@@ -10,6 +10,7 @@ import UIKit
 
 class RestaurantTableViewCell: UITableViewCell {
     
+    
     @IBOutlet var nameLabel: UILabel!
     @IBOutlet var locationLabel: UILabel!
     @IBOutlet var typeLabel: UILabel!
